@@ -70,7 +70,7 @@ END MostrarAccesosFallidos;
 
 Pasamos a la prueba del procedimiento. Lo que haremos será ejecutar este mismo y nos devolverá las pruebas que hemos hecho:
 
-```
+```sql
 EXEC MostrarAccesosFallidos;
 ```
 
